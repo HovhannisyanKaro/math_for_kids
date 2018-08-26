@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="one">#cf66f9</color>
+    <color name="two">#fd5f5f</color>
+    <color name="three">#95d101</color>
+    <color name="four">#00a7fe</color>
+
+    <color name="kids_1">#fd8b1e</color>
+    <color name="kids_2">#5826a8</color>
+    <color name="kids_3">#cd0101</color>
+    <color name="kids_33">#8dca2a2a</color>
+    <color name="kids_4">#3333cb</color>
+
+
+
+
+
+</resources>

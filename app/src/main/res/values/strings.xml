@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math</string>
+    <string name="sum">Summary</string>
+    <string name="dif">Difference</string>
+    <string name="mult">Multiplication</string>
+    <string name="div">Division</string>
+</resources>
